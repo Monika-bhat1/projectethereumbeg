@@ -1,6 +1,6 @@
-# MyToken
+# Project Introduction 
 
-This project is based on creeating a token using the solidity language that is a high level language.This project allows us to create a smart contract that allows to implement various concepts such as mapping, storing, destroying the tokens created. It also maintains the condition that we burn the amount of fas that we have and not more than that. 
+This project is based on creating a token using the solidity that is a high level language.This project allows us to create a smart contract that allows to implement various concepts such as mapping, storing, destroying the tokens created. It also maintains the condition that we burn the amount of fas that we have and not more than that. 
 
 ## Requirements
 
